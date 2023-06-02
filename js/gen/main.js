@@ -15021,7 +15021,7 @@ function $c_Lchoreo_frontend_CetaCaos$() {
   var _2 = this$168.from__sc_IterableOnce__sci_Map(elems$1);
   this.Lchoreo_frontend_CetaCaos$__f_states = new $c_T2(1, _2);
   $m_s_package$();
-  var $$x113 = $m_sr_ScalaRunTime$();
+  var $$x114 = $m_sr_ScalaRunTime$();
   var a = new $c_sjsr_AnonFunction1(((this$3$1) => ((c) => {
     $as_Lchoreo_syntax_Choreo(c);
     var this$171 = $m_s_Predef$().s_Predef$__f_Map;
@@ -15031,7 +15031,7 @@ function $c_Lchoreo_frontend_CetaCaos$() {
     return $m_s_package$().s_package$__f_Nil
   }))(this));
   var y$1 = new $c_Lcaos_frontend_widgets_WidgetInfo$Analyse(a);
-  var $$x112 = new $c_T2("reset", y$1);
+  var $$x113 = new $c_T2("reset", y$1);
   var this$177 = $m_Lcaos_frontend_Configurator$().lts__F1__Lcaos_sos_SOS__F1__F1__I__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$4$1) => ((c$2) => {
     var c$3 = $as_Lchoreo_syntax_Choreo(c$2);
     return c$3
@@ -15043,7 +15043,7 @@ function $c_Lchoreo_frontend_CetaCaos$() {
     return _$1$1.toString__T()
   }))(this)), 80);
   var y$2 = $f_Lcaos_frontend_widgets_WidgetInfo__expand__Lcaos_frontend_widgets_WidgetInfo(this$177);
-  var $$x111 = new $c_T2("LTS: Global S-Choreo", y$2);
+  var $$x112 = new $c_T2("LTS: Global S-Choreo", y$2);
   var this$196 = $m_Lcaos_frontend_Configurator$().viewMerms__F1__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$7$1) => ((ch) => {
     var ch$1 = $as_Lchoreo_syntax_Choreo(ch);
     var x45 = $m_Lchoreo_analysis_IEquiv$().checkRCExt__Lchoreo_syntax_Choreo__Lcaos_sos_SOS__F1__s_util_Either(ch$1, $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$180) => ((_$2) => {
@@ -15064,14 +15064,14 @@ function $c_Lchoreo_frontend_CetaCaos$() {
         var lt = new $c_sjsr_AnonFunction2(((this$2$2) => ((_$3, _$4) => {
           var _$3$1 = $as_Lchoreo_syntax_Agent(_$3);
           var _$4$1 = $as_Lchoreo_syntax_Agent(_$4);
-          var $$x108 = $m_sc_StringOps$();
+          var $$x109 = $m_sc_StringOps$();
           var x$2 = _$3$1.Lchoreo_syntax_Agent__f_s;
-          return $$x108.$less$extension__T__T__Z(x$2, _$4$1.Lchoreo_syntax_Agent__f_s)
+          return $$x109.$less$extension__T__T__Z(x$2, _$4$1.Lchoreo_syntax_Agent__f_s)
         }))(this$7$1));
         return $as_sci_List($f_sc_SeqOps__sortWith__F2__O(this$184, lt)).map__F1__sci_List(new $c_sjsr_AnonFunction1(((this$3$2, ch$2, eqs$2) => ((a$1) => {
           var a$2 = $as_Lchoreo_syntax_Agent(a$1);
           var self$34 = a$2.Lchoreo_syntax_Agent__f_s;
-          var $$x109 = $m_Lcaos_sos_SOS$();
+          var $$x110 = $m_Lcaos_sos_SOS$();
           var eqs$1 = new $c_sjsr_AnonFunction1(((this$186, a$2$1, eqs2$2) => ((ch2) => {
             var ch2$1 = $as_Lchoreo_syntax_Choreo(ch2);
             return $m_Lchoreo_analysis_IEquiv$().get__O__O__sci_Map__sci_Set(ch2$1, a$2$1, eqs2$2)
@@ -15089,7 +15089,7 @@ function $c_Lchoreo_frontend_CetaCaos$() {
             return ((this$191.isEmpty__Z() || $uZ(p.apply__O__O(this$191.s_Some__f_value))) ? this$191 : $m_s_None$())
           }))(this$3$2, a$2));
           var sos = $m_Lchoreo_sos_ChorSyncSOS$();
-          var y$3 = $$x109.toMermaid__Lcaos_sos_SOS__O__F1__F1__I__T(new $c_Lchoreo_sos_Quotient(eqs$1, updAct, sos), $m_Lchoreo_analysis_IEquiv$().get__O__O__sci_Map__sci_Set(ch$2, a$2, eqs$2), new $c_sjsr_AnonFunction1(((this$3$3) => ((q) => {
+          var y$3 = $$x110.toMermaid__Lcaos_sos_SOS__O__F1__F1__I__T(new $c_Lchoreo_sos_Quotient(eqs$1, updAct, sos), $m_Lchoreo_analysis_IEquiv$().get__O__O__sci_Map__sci_Set(ch$2, a$2, eqs$2), new $c_sjsr_AnonFunction1(((this$3$3) => ((q) => {
             var q$1 = $as_sci_Set(q);
             var this$194 = $as_sc_IterableOnceOps(q$1.map__F1__O(new $c_sjsr_AnonFunction1(((this$193) => ((x$3) => {
               var x$4 = $as_Lchoreo_syntax_Choreo(x$3);
@@ -15107,8 +15107,8 @@ function $c_Lchoreo_frontend_CetaCaos$() {
     throw new $c_s_MatchError(x45)
   }))(this)));
   var y$4 = $f_Lcaos_frontend_widgets_WidgetInfo__expand__Lcaos_frontend_widgets_WidgetInfo(this$196);
-  var $$x110 = new $c_T2("LTS: Local Quotients - Variant (NOT Component Automata)", y$4);
-  var this$216 = $m_Lcaos_frontend_Configurator$().viewMerms__F1__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$8$1) => ((ch$2$1) => {
+  var $$x111 = new $c_T2("LTS: Local Quotients - Variant (NOT Component Automata)", y$4);
+  var this$219 = $m_Lcaos_frontend_Configurator$().viewMerms__F1__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$8$1) => ((ch$2$1) => {
     var ch$3 = $as_Lchoreo_syntax_Choreo(ch$2$1);
     var x52 = $m_Lchoreo_analysis_IEquiv$().checkRCTeamExt__Lchoreo_syntax_Choreo__Lcaos_sos_SOS__F1__s_util_Either(ch$3, $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$199) => ((_$7) => {
       var _$7$1 = $as_Lchoreo_syntax_Choreo(_$7);
@@ -15135,44 +15135,43 @@ function $c_Lchoreo_frontend_CetaCaos$() {
         return $as_sci_List($f_sc_SeqOps__sortWith__F2__O(this$203, lt$1)).map__F1__sci_List(new $c_sjsr_AnonFunction1(((this$3$4, ch$2$2, eqs$2$1) => ((a$4) => {
           var a$5 = $as_Lchoreo_syntax_Agent(a$4);
           var self$35 = a$5.Lchoreo_syntax_Agent__f_s;
-          var $$x106 = $m_Lcaos_sos_SOS$();
+          var $$x107 = $m_Lcaos_sos_SOS$();
           var eqs$4 = new $c_sjsr_AnonFunction1(((this$205, a$2$3, eqs2$2$1) => ((ch2$2) => {
             var ch2$3 = $as_Lchoreo_syntax_Choreo(ch2$2);
             return $m_Lchoreo_analysis_IEquiv$().get__O__O__sci_Map__sci_Set(ch2$3, a$2$3, eqs2$2$1)
           }))(this$3$4, a$5, eqs$2$1));
           var updAct$1 = new $c_sjsr_AnonFunction1(((this$2$5, a$3$1) => ((l$2) => {
             var l$3 = $as_Lchoreo_sos_ChorSyncSOS$Interact(l$2);
-            var from = $as_sci_Set(l$3.Lchoreo_sos_ChorSyncSOS$Interact__f_from.filter__F1__O(new $c_sjsr_AnonFunction1(((this$206, a$5$2) => ((_$10) => {
-              var _$10$1 = $as_Lchoreo_syntax_Agent(_$10);
-              return ((_$10$1 === null) ? (a$5$2 === null) : _$10$1.equals__O__Z(a$5$2))
-            }))(this$2$5, a$3$1))));
-            var to = $as_sci_Set(l$3.Lchoreo_sos_ChorSyncSOS$Interact__f_to.filter__F1__O(new $c_sjsr_AnonFunction1(((this$2$6, a$5$3) => ((_$11) => {
-              var _$11$1 = $as_Lchoreo_syntax_Agent(_$11);
-              return ((_$11$1 === null) ? (a$5$3 === null) : _$11$1.equals__O__Z(a$5$3))
-            }))(this$2$5, a$3$1))));
-            var m = l$3.Lchoreo_sos_ChorSyncSOS$Interact__f_m;
-            var value = new $c_Lchoreo_sos_ChorSyncSOS$Interact(from, to, m);
-            var this$211 = new $c_s_Some(value);
-            var p$1 = new $c_sjsr_AnonFunction1(((this$3$5, a$5$4) => ((_$12) => {
-              var _$12$1 = $as_Lchoreo_sos_ChorSyncSOS$Interact(_$12);
-              var this$209 = _$12$1.Lchoreo_sos_ChorSyncSOS$Interact__f_from;
-              var that$1 = _$12$1.Lchoreo_sos_ChorSyncSOS$Interact__f_to;
-              var this$210 = $as_sci_Set(this$209.concat__sc_IterableOnce__sc_SetOps(that$1));
-              return this$210.contains__O__Z(a$5$4)
+            var this$210 = new $c_s_Some(l$3);
+            var p$1 = new $c_sjsr_AnonFunction1(((this$207, a$5$2) => ((_$10) => {
+              var _$10$1 = $as_Lchoreo_sos_ChorSyncSOS$Interact(_$10);
+              var this$208 = _$10$1.Lchoreo_sos_ChorSyncSOS$Interact__f_from;
+              var that$1 = _$10$1.Lchoreo_sos_ChorSyncSOS$Interact__f_to;
+              var this$209 = $as_sci_Set(this$208.concat__sc_IterableOnce__sc_SetOps(that$1));
+              return this$209.contains__O__Z(a$5$2)
             }))(this$2$5, a$3$1));
-            return ((this$211.isEmpty__Z() || $uZ(p$1.apply__O__O(this$211.s_Some__f_value))) ? this$211 : $m_s_None$())
+            var this$214 = ((this$210.isEmpty__Z() || $uZ(p$1.apply__O__O(this$210.s_Some__f_value))) ? this$210 : $m_s_None$());
+            var f = new $c_sjsr_AnonFunction1(((this$2$6, a$5$3) => ((l$2$1) => {
+              var l$4 = $as_Lchoreo_sos_ChorSyncSOS$Interact(l$2$1);
+              var this$211 = l$4.Lchoreo_sos_ChorSyncSOS$Interact__f_m;
+              var this$212 = this$211.Lchoreo_syntax_Msg__f_l;
+              var $$x106 = $f_sc_IterableOnceOps__mkString__T__T__T__T(this$212, "", "/", "");
+              var this$213 = l$4.Lchoreo_sos_ChorSyncSOS$Interact__f_from;
+              return ($$x106 + (this$213.contains__O__Z(a$5$3) ? "?" : "!"))
+            }))(this$2$5, a$3$1));
+            return (this$214.isEmpty__Z() ? $m_s_None$() : new $c_s_Some(f.apply__O__O(this$214.get__O())))
           }))(this$3$4, a$5));
           var sos$1 = $m_Lchoreo_sos_ChorSyncSOS$();
-          var y$5 = $$x106.toMermaid__Lcaos_sos_SOS__O__F1__F1__I__T(new $c_Lchoreo_sos_Quotient(eqs$4, updAct$1, sos$1), $m_Lchoreo_analysis_IEquiv$().get__O__O__sci_Map__sci_Set(ch$2$2, a$5, eqs$2$1), new $c_sjsr_AnonFunction1(((this$3$6) => ((q$2) => {
+          var y$5 = $$x107.toMermaid__Lcaos_sos_SOS__O__F1__F1__I__T(new $c_Lchoreo_sos_Quotient(eqs$4, updAct$1, sos$1), $m_Lchoreo_analysis_IEquiv$().get__O__O__sci_Map__sci_Set(ch$2$2, a$5, eqs$2$1), new $c_sjsr_AnonFunction1(((this$3$5) => ((q$2) => {
             var q$3 = $as_sci_Set(q$2);
-            var this$214 = $as_sc_IterableOnceOps(q$3.map__F1__O(new $c_sjsr_AnonFunction1(((this$213) => ((x$6) => {
+            var this$217 = $as_sc_IterableOnceOps(q$3.map__F1__O(new $c_sjsr_AnonFunction1(((this$216) => ((x$6) => {
               var x$7 = $as_Lchoreo_syntax_Choreo(x$6);
-              return this$213.get__Lchoreo_syntax_Choreo__T(x$7)
-            }))(this$3$6))));
-            return $f_sc_IterableOnceOps__mkString__T__T__T__T(this$214, "", ",", "")
-          }))(this$3$4)), new $c_sjsr_AnonFunction1(((this$4$3) => ((_$13) => {
-            var _$13$1 = $as_Lchoreo_sos_ChorSyncSOS$Interact(_$13);
-            return _$13$1.toString__T()
+              return this$216.get__Lchoreo_syntax_Choreo__T(x$7)
+            }))(this$3$5))));
+            return $f_sc_IterableOnceOps__mkString__T__T__T__T(this$217, "", ",", "")
+          }))(this$3$4)), new $c_sjsr_AnonFunction1(((this$4$3) => ((_$11) => {
+            var _$11$1 = $as_T(_$11);
+            return _$11$1
           }))(this$3$4)), 80);
           return new $c_T2(self$35, y$5)
         }))(this$8$1, ch$3, eqs$3)))
@@ -15180,30 +15179,30 @@ function $c_Lchoreo_frontend_CetaCaos$() {
     };
     throw new $c_s_MatchError(x52)
   }))(this)));
-  var y$6 = $f_Lcaos_frontend_widgets_WidgetInfo__expand__Lcaos_frontend_widgets_WidgetInfo(this$216);
-  var $$x107 = new $c_T2("LTS: Local Quotients - Teams (Component Automata)", y$6);
+  var y$6 = $f_Lcaos_frontend_widgets_WidgetInfo__expand__Lcaos_frontend_widgets_WidgetInfo(this$219);
+  var $$x108 = new $c_T2("LTS: Local Quotients - Teams (Component Automata)", y$6);
   var y$7 = $m_Lcaos_frontend_Configurator$().view__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$9$1) => ((c$3$1) => {
     var c$4 = $as_Lchoreo_syntax_Choreo(c$3$1);
     var $$x103 = $m_Lchoreo_analysis_IEquiv$();
     var $$x102 = $m_Lchoreo_analysis_IEquiv$();
-    var this$219 = $m_s_Predef$().s_Predef$__f_Set;
+    var this$222 = $m_s_Predef$().s_Predef$__f_Set;
     var elems$3 = $m_sr_ScalaRunTime$().wrapRefArray__AO__sci_ArraySeq(new ($d_Lchoreo_syntax_Choreo.getArrayOf().constr)([c$4]));
-    var $$x101 = this$219.from__sc_IterableOnce__sci_Set(elems$3);
+    var $$x101 = this$222.from__sc_IterableOnce__sci_Set(elems$3);
     var $$x100 = $m_Lchoreo_sos_ChorSyncSOS$();
     var $$x99 = $m_Lchoreo_syntax_Choreo$().agents__Lchoreo_syntax_Choreo__sci_Set(c$4);
-    var this$220 = $m_s_Predef$().s_Predef$__f_Set;
+    var this$223 = $m_s_Predef$().s_Predef$__f_Set;
     var elems$4 = $m_sr_ScalaRunTime$().wrapRefArray__AO__sci_ArraySeq(new ($d_Lchoreo_syntax_Choreo.getArrayOf().constr)([]));
-    return $$x103.show__T2__F1__T($$x102.buildEquiv__sci_Set__Lcaos_sos_SOS__sci_Set__sci_Set__T2($$x101, $$x100, $$x99, this$220.from__sc_IterableOnce__sci_Set(elems$4)), new $c_sjsr_AnonFunction1(((this$221) => ((_$14) => {
-      var _$14$1 = $as_Lchoreo_syntax_Choreo(_$14);
-      return this$221.get__Lchoreo_syntax_Choreo__T(_$14$1)
+    return $$x103.show__T2__F1__T($$x102.buildEquiv__sci_Set__Lcaos_sos_SOS__sci_Set__sci_Set__T2($$x101, $$x100, $$x99, this$223.from__sc_IterableOnce__sci_Set(elems$4)), new $c_sjsr_AnonFunction1(((this$224) => ((_$12) => {
+      var _$12$1 = $as_Lchoreo_syntax_Choreo(_$12);
+      return this$224.get__Lchoreo_syntax_Choreo__T(_$12$1)
     }))(this$9$1)))
   }))(this)), $m_Lcaos_view_Text$());
   var $$x104 = new $c_T2("I-equivalences (just indistinguishable + equiv. closure)", y$7);
   var y$8 = $m_Lcaos_frontend_Configurator$().view__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$10$1) => ((c$4$1) => {
     var c$5 = $as_Lchoreo_syntax_Choreo(c$4$1);
-    var x59 = $m_Lchoreo_analysis_IEquiv$().checkRCExt__Lchoreo_syntax_Choreo__Lcaos_sos_SOS__F1__s_util_Either(c$5, $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$224) => ((_$15) => {
-      var _$15$1 = $as_Lchoreo_syntax_Choreo(_$15);
-      return this$224.get__Lchoreo_syntax_Choreo__T(_$15$1)
+    var x59 = $m_Lchoreo_analysis_IEquiv$().checkRCExt__Lchoreo_syntax_Choreo__Lcaos_sos_SOS__F1__s_util_Either(c$5, $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$227) => ((_$13) => {
+      var _$13$1 = $as_Lchoreo_syntax_Choreo(_$13);
+      return this$227.get__Lchoreo_syntax_Choreo__T(_$13$1)
     }))(this$10$1)));
     if ((x59 instanceof $c_s_util_Left)) {
       var err$2 = $as_T($as_s_util_Left(x59).s_util_Left__f_value);
@@ -15211,9 +15210,9 @@ function $c_Lchoreo_frontend_CetaCaos$() {
     };
     if ((x59 instanceof $c_s_util_Right)) {
       var r = $as_T2($as_s_util_Right(x59).s_util_Right__f_value);
-      return $m_Lchoreo_analysis_IEquiv$().show__T2__F1__T(r, new $c_sjsr_AnonFunction1(((this$2$7) => ((_$16) => {
-        var _$16$1 = $as_Lchoreo_syntax_Choreo(_$16);
-        return this$2$7.get__Lchoreo_syntax_Choreo__T(_$16$1)
+      return $m_Lchoreo_analysis_IEquiv$().show__T2__F1__T(r, new $c_sjsr_AnonFunction1(((this$2$7) => ((_$14) => {
+        var _$14$1 = $as_Lchoreo_syntax_Choreo(_$14);
+        return this$2$7.get__Lchoreo_syntax_Choreo__T(_$14$1)
       }))(this$10$1)))
     };
     throw new $c_s_MatchError(x59)
@@ -15221,9 +15220,9 @@ function $c_Lchoreo_frontend_CetaCaos$() {
   var $$x98 = new $c_T2("checking RC - Variant (extending equiv. w/o backtracking)", y$8);
   var y$9 = $m_Lcaos_frontend_Configurator$().view__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$11$1) => ((c$5$1) => {
     var c$6 = $as_Lchoreo_syntax_Choreo(c$5$1);
-    var x64 = $m_Lchoreo_analysis_IEquiv$().checkRCTeamExt__Lchoreo_syntax_Choreo__Lcaos_sos_SOS__F1__s_util_Either(c$6, $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$227) => ((_$17) => {
-      var _$17$1 = $as_Lchoreo_syntax_Choreo(_$17);
-      return this$227.get__Lchoreo_syntax_Choreo__T(_$17$1)
+    var x64 = $m_Lchoreo_analysis_IEquiv$().checkRCTeamExt__Lchoreo_syntax_Choreo__Lcaos_sos_SOS__F1__s_util_Either(c$6, $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$230) => ((_$15) => {
+      var _$15$1 = $as_Lchoreo_syntax_Choreo(_$15);
+      return this$230.get__Lchoreo_syntax_Choreo__T(_$15$1)
     }))(this$11$1)));
     if ((x64 instanceof $c_s_util_Left)) {
       var err$3 = $as_T($as_s_util_Left(x64).s_util_Left__f_value);
@@ -15231,9 +15230,9 @@ function $c_Lchoreo_frontend_CetaCaos$() {
     };
     if ((x64 instanceof $c_s_util_Right)) {
       var r$1 = $as_T2($as_s_util_Right(x64).s_util_Right__f_value);
-      return $m_Lchoreo_analysis_IEquiv$().show__T2__F1__T(r$1, new $c_sjsr_AnonFunction1(((this$2$8) => ((_$18) => {
-        var _$18$1 = $as_Lchoreo_syntax_Choreo(_$18);
-        return this$2$8.get__Lchoreo_syntax_Choreo__T(_$18$1)
+      return $m_Lchoreo_analysis_IEquiv$().show__T2__F1__T(r$1, new $c_sjsr_AnonFunction1(((this$2$8) => ((_$16) => {
+        var _$16$1 = $as_Lchoreo_syntax_Choreo(_$16);
+        return this$2$8.get__Lchoreo_syntax_Choreo__T(_$16$1)
       }))(this$11$1)))
     };
     throw new $c_s_MatchError(x64)
@@ -15241,9 +15240,9 @@ function $c_Lchoreo_frontend_CetaCaos$() {
   var $$x97 = new $c_T2("checking RC - Teams (extending equiv. w/o backtracking)", y$9);
   var y$10 = $m_Lcaos_frontend_Configurator$().view__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$12$1) => ((c$6$1) => {
     var c$7 = $as_Lchoreo_syntax_Choreo(c$6$1);
-    var x69 = $m_Lchoreo_analysis_IEquiv$().checkRC__Lchoreo_syntax_Choreo__Lcaos_sos_SOS__F1__s_util_Either(c$7, $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$230) => ((_$19) => {
-      var _$19$1 = $as_Lchoreo_syntax_Choreo(_$19);
-      return this$230.get__Lchoreo_syntax_Choreo__T(_$19$1)
+    var x69 = $m_Lchoreo_analysis_IEquiv$().checkRC__Lchoreo_syntax_Choreo__Lcaos_sos_SOS__F1__s_util_Either(c$7, $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$233) => ((_$17) => {
+      var _$17$1 = $as_Lchoreo_syntax_Choreo(_$17);
+      return this$233.get__Lchoreo_syntax_Choreo__T(_$17$1)
     }))(this$12$1)));
     if ((x69 instanceof $c_s_util_Left)) {
       var err$4 = $as_T($as_s_util_Left(x69).s_util_Left__f_value);
@@ -15251,9 +15250,9 @@ function $c_Lchoreo_frontend_CetaCaos$() {
     };
     if ((x69 instanceof $c_s_util_Right)) {
       var r$2 = $as_T2($as_s_util_Right(x69).s_util_Right__f_value);
-      return $m_Lchoreo_analysis_IEquiv$().show__T2__F1__T(r$2, new $c_sjsr_AnonFunction1(((this$2$9) => ((_$20) => {
-        var _$20$1 = $as_Lchoreo_syntax_Choreo(_$20);
-        return this$2$9.get__Lchoreo_syntax_Choreo__T(_$20$1)
+      return $m_Lchoreo_analysis_IEquiv$().show__T2__F1__T(r$2, new $c_sjsr_AnonFunction1(((this$2$9) => ((_$18) => {
+        var _$18$1 = $as_Lchoreo_syntax_Choreo(_$18);
+        return this$2$9.get__Lchoreo_syntax_Choreo__T(_$18$1)
       }))(this$12$1)))
     };
     throw new $c_s_MatchError(x69)
@@ -15262,12 +15261,12 @@ function $c_Lchoreo_frontend_CetaCaos$() {
   var y$11 = $m_Lcaos_frontend_Configurator$().lts__F1__Lcaos_sos_SOS__F1__F1__I__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$13$1) => ((c$7$1) => {
     var c$8 = $as_Lchoreo_syntax_Choreo(c$7$1);
     return c$8
-  }))(this)), $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$14$1) => ((_$21) => {
-    var _$21$1 = $as_Lchoreo_syntax_Choreo(_$21);
-    return $f_Lchoreo_syntax_Choreo__toString__T(_$21$1)
-  }))(this)), new $c_sjsr_AnonFunction1(((this$15$1) => ((_$22) => {
-    var _$22$1 = $as_Lchoreo_sos_ChorSyncSOS$Interact(_$22);
-    return _$22$1.toString__T()
+  }))(this)), $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$14$1) => ((_$19) => {
+    var _$19$1 = $as_Lchoreo_syntax_Choreo(_$19);
+    return $f_Lchoreo_syntax_Choreo__toString__T(_$19$1)
+  }))(this)), new $c_sjsr_AnonFunction1(((this$15$1) => ((_$20) => {
+    var _$20$1 = $as_Lchoreo_sos_ChorSyncSOS$Interact(_$20);
+    return _$20$1.toString__T()
   }))(this)), 80);
   var $$x95 = new $c_T2("LTS (full view)", y$11);
   var y$12 = $m_Lcaos_frontend_Configurator$().view__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$16$1) => ((c$8$1) => {
@@ -15277,25 +15276,25 @@ function $c_Lchoreo_frontend_CetaCaos$() {
   var $$x94 = new $c_T2("CETA B-Pomset", y$12);
   var y$14 = $m_Lcaos_frontend_Configurator$().viewMerms__F1__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$17$1) => ((ch$3$1) => {
     var ch$4 = $as_Lchoreo_syntax_Choreo(ch$3$1);
-    var this$238 = $m_Lchoreo_syntax_Choreo$().agents__Lchoreo_syntax_Choreo__sci_Set(ch$4);
+    var this$241 = $m_Lchoreo_syntax_Choreo$().agents__Lchoreo_syntax_Choreo__sci_Set(ch$4);
     $m_sci_List$();
-    var this$242 = $m_sci_Nil$().prependedAll__sc_IterableOnce__sci_List(this$238);
-    var lt$2 = new $c_sjsr_AnonFunction2(((this$240) => ((_$23, _$24) => {
-      var _$23$1 = $as_Lchoreo_syntax_Agent(_$23);
-      var _$24$1 = $as_Lchoreo_syntax_Agent(_$24);
+    var this$245 = $m_sci_Nil$().prependedAll__sc_IterableOnce__sci_List(this$241);
+    var lt$2 = new $c_sjsr_AnonFunction2(((this$243) => ((_$21, _$22) => {
+      var _$21$1 = $as_Lchoreo_syntax_Agent(_$21);
+      var _$22$1 = $as_Lchoreo_syntax_Agent(_$22);
       var $$x92 = $m_sc_StringOps$();
-      var x$8 = _$23$1.Lchoreo_syntax_Agent__f_s;
-      return $$x92.$less$extension__T__T__Z(x$8, _$24$1.Lchoreo_syntax_Agent__f_s)
+      var x$8 = _$21$1.Lchoreo_syntax_Agent__f_s;
+      return $$x92.$less$extension__T__T__Z(x$8, _$22$1.Lchoreo_syntax_Agent__f_s)
     }))(this$17$1));
-    return $as_sci_List($f_sc_SeqOps__sortWith__F2__O(this$242, lt$2)).map__F1__sci_List(new $c_sjsr_AnonFunction1(((this$2$10, ch$2$3) => ((a$6) => {
+    return $as_sci_List($f_sc_SeqOps__sortWith__F2__O(this$245, lt$2)).map__F1__sci_List(new $c_sjsr_AnonFunction1(((this$2$10, ch$2$3) => ((a$6) => {
       var a$7 = $as_Lchoreo_syntax_Agent(a$6);
       var self$36 = a$7.Lchoreo_syntax_Agent__f_s;
-      var y$13 = $m_Lcaos_sos_SOS$().toMermaid__Lcaos_sos_SOS__O__F1__F1__I__T($m_Lchoreo_sos_ChorSyncSOS$(), $m_Lchoreo_projection_ChorSyncProj$().proj__Lchoreo_syntax_Choreo__Lchoreo_syntax_Agent__Lchoreo_syntax_Choreo(ch$2$3, a$7), new $c_sjsr_AnonFunction1(((this$244) => ((_$25) => {
-        $as_Lchoreo_syntax_Choreo(_$25);
+      var y$13 = $m_Lcaos_sos_SOS$().toMermaid__Lcaos_sos_SOS__O__F1__F1__I__T($m_Lchoreo_sos_ChorSyncSOS$(), $m_Lchoreo_projection_ChorSyncProj$().proj__Lchoreo_syntax_Choreo__Lchoreo_syntax_Agent__Lchoreo_syntax_Choreo(ch$2$3, a$7), new $c_sjsr_AnonFunction1(((this$247) => ((_$23) => {
+        $as_Lchoreo_syntax_Choreo(_$23);
         return " "
-      }))(this$2$10)), new $c_sjsr_AnonFunction1(((this$2$11) => ((_$26) => {
-        var _$26$1 = $as_Lchoreo_sos_ChorSyncSOS$Interact(_$26);
-        return _$26$1.toString__T()
+      }))(this$2$10)), new $c_sjsr_AnonFunction1(((this$2$11) => ((_$24) => {
+        var _$24$1 = $as_Lchoreo_sos_ChorSyncSOS$Interact(_$24);
+        return _$24$1.toString__T()
       }))(this$2$10)), 80);
       return new $c_T2(self$36, y$13)
     }))(this$17$1, ch$4)))
@@ -15315,11 +15314,11 @@ function $c_Lchoreo_frontend_CetaCaos$() {
   var show2$1 = $m_Lcaos_frontend_Configurator$().compareBranchBisim$default$6__F1();
   var y$15 = $m_Lcaos_frontend_Configurator$().compareBranchBisim__Lcaos_sos_SOS__Lcaos_sos_SOS__F1__F1__F1__F1__I__Lcaos_frontend_widgets_WidgetInfo($m_Lchoreo_sos_ChorSyncSOS$(), sos2$1, pre1$1, pre2$1, show1$1, show2$1, 500);
   var $$x91 = new $c_T2("Realisability via bisimulation", y$15);
-  var this$251 = $m_Lcaos_frontend_Configurator$().view__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$20$1) => ((xc) => {
+  var this$254 = $m_Lcaos_frontend_Configurator$().view__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$20$1) => ((xc) => {
     var xc$1 = $as_Lchoreo_syntax_Choreo(xc);
     return $m_Lchoreo_view_SequenceChart$().apply__Lchoreo_syntax_Choreo__T(xc$1)
   }))(this)), $m_Lcaos_view_Mermaid$());
-  var y$16 = $f_Lcaos_frontend_widgets_WidgetInfo__moveTo__I__Lcaos_frontend_widgets_WidgetInfo(this$251, 1);
+  var y$16 = $f_Lcaos_frontend_widgets_WidgetInfo__moveTo__I__Lcaos_frontend_widgets_WidgetInfo(this$254, 1);
   var $$x90 = new $c_T2("Sequence Diagram", y$16);
   var y$17 = $m_Lcaos_frontend_Configurator$().view__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$21$1) => ((c$9$1) => {
     var c$10 = $as_Lchoreo_syntax_Choreo(c$9$1);
@@ -15328,21 +15327,21 @@ function $c_Lchoreo_frontend_CetaCaos$() {
   var $$x89 = new $c_T2("Async Global B-Pomset (not in use)", y$17);
   var y$18 = $m_Lcaos_frontend_Configurator$().view__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$22$1) => ((c$10$1) => {
     var c$11 = $as_Lchoreo_syntax_Choreo(c$10$1);
-    var this$263 = $as_sc_IterableOnceOps(this$22$1.messages__Lchoreo_syntax_Choreo__sci_Map(c$11).map__F1__O(new $c_sjsr_AnonFunction1(((this$257) => ((kv) => {
+    var this$266 = $as_sc_IterableOnceOps(this$22$1.messages__Lchoreo_syntax_Choreo__sci_Map(c$11).map__F1__O(new $c_sjsr_AnonFunction1(((this$260) => ((kv) => {
       var kv$1 = $as_T2(kv);
       var $$x87 = $m_sc_StringOps$();
       var x$10 = $as_Lchoreo_syntax_Msg(kv$1.T2__f__1).pp__T();
       var $$x86 = $$x87.drop$extension__T__I__T(x$10, 1);
-      var this$259 = $as_sc_IterableOnceOps($as_T2(kv$1.T2__f__2).T2__f__1).toList__sci_List();
+      var this$262 = $as_sc_IterableOnceOps($as_T2(kv$1.T2__f__2).T2__f__1).toList__sci_List();
       var ord = $m_s_math_Ordering$Int$();
-      var this$260 = $as_sc_IterableOnceOps($f_sc_SeqOps__sorted__s_math_Ordering__O(this$259, ord));
-      var $$x85 = $f_sc_IterableOnceOps__mkString__T__T__T__T(this$260, "", ",", "");
-      var this$261 = $as_sc_IterableOnceOps($as_T2(kv$1.T2__f__2).T2__f__2).toList__sci_List();
+      var this$263 = $as_sc_IterableOnceOps($f_sc_SeqOps__sorted__s_math_Ordering__O(this$262, ord));
+      var $$x85 = $f_sc_IterableOnceOps__mkString__T__T__T__T(this$263, "", ",", "");
+      var this$264 = $as_sc_IterableOnceOps($as_T2(kv$1.T2__f__2).T2__f__2).toList__sci_List();
       var ord$1 = $m_s_math_Ordering$Int$();
-      var this$262 = $as_sc_IterableOnceOps($f_sc_SeqOps__sorted__s_math_Ordering__O(this$261, ord$1));
-      return ((((($$x86 + "->[") + $$x85) + "],[") + $f_sc_IterableOnceOps__mkString__T__T__T__T(this$262, "", ",", "")) + "]")
+      var this$265 = $as_sc_IterableOnceOps($f_sc_SeqOps__sorted__s_math_Ordering__O(this$264, ord$1));
+      return ((((($$x86 + "->[") + $$x85) + "],[") + $f_sc_IterableOnceOps__mkString__T__T__T__T(this$265, "", ",", "")) + "]")
     }))(this$22$1))));
-    return $f_sc_IterableOnceOps__mkString__T__T__T__T(this$263, "", "\n", "")
+    return $f_sc_IterableOnceOps__mkString__T__T__T__T(this$266, "", "\n", "")
   }))(this)), $m_Lcaos_view_Text$());
   var $$x88 = new $c_T2("Sync-type", y$18);
   var y$19 = $m_Lcaos_frontend_Configurator$().steps__F1__Lcaos_sos_SOS__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$23$1) => ((xc$2) => {
@@ -15356,9 +15355,9 @@ function $c_Lchoreo_frontend_CetaCaos$() {
   var y$20 = $m_Lcaos_frontend_Configurator$().steps__F1__Lcaos_sos_SOS__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$25$1) => ((xc$3$1) => {
     var xc$4 = $as_Lchoreo_syntax_Choreo(xc$3$1);
     return xc$4
-  }))(this)), $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$26$1) => ((_$27) => {
-    var _$27$1 = $as_Lchoreo_syntax_Choreo(_$27);
-    return $f_Lchoreo_syntax_Choreo__toString__T(_$27$1)
+  }))(this)), $m_Lchoreo_sos_ChorSyncSOS$(), new $c_sjsr_AnonFunction1(((this$26$1) => ((_$25) => {
+    var _$25$1 = $as_Lchoreo_syntax_Choreo(_$25);
+    return $f_Lchoreo_syntax_Choreo__toString__T(_$25$1)
   }))(this)), $m_Lcaos_view_Text$());
   var $$x83 = new $c_T2("Semantics: Global Sync (via Choreo)", y$20);
   var $$x81 = $m_Lcaos_frontend_Configurator$();
@@ -15367,19 +15366,19 @@ function $c_Lchoreo_frontend_CetaCaos$() {
     return $m_Lchoreo_sos_Network$().mkNetSync__O__Lchoreo_projection_Projection__sci_Map__Lchoreo_sos_Network$NetworkSync(ch$6, $m_Lchoreo_projection_ChorSyncProj$(), this$27$1.messages__Lchoreo_syntax_Choreo__sci_Map(ch$6))
   }))(this));
   var localSOS$1 = $m_Lchoreo_sos_ChorSyncSOS$();
-  var y$21 = $$x81.steps__F1__Lcaos_sos_SOS__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo($$x80, new $c_Lchoreo_sos_Network$$anon$3(localSOS$1), new $c_sjsr_AnonFunction1(((this$28$1) => ((_$28) => {
-    var _$28$1 = $as_Lchoreo_sos_Network$NetworkSync(_$28);
-    return _$28$1.toString__T()
+  var y$21 = $$x81.steps__F1__Lcaos_sos_SOS__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo($$x80, new $c_Lchoreo_sos_Network$$anon$3(localSOS$1), new $c_sjsr_AnonFunction1(((this$28$1) => ((_$26) => {
+    var _$26$1 = $as_Lchoreo_sos_Network$NetworkSync(_$26);
+    return _$26$1.toString__T()
   }))(this)), $m_Lcaos_view_Text$());
   var $$x82 = new $c_T2("Semantics: Local Sync (via Choreo)", y$21);
   var y$22 = $m_Lcaos_frontend_Configurator$().viewMerms__F1__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$29$1) => ((xc$4$1) => {
     var xc$5 = $as_Lchoreo_syntax_Choreo(xc$4$1);
-    var this$275 = new $c_Lchoreo_npomsets_CETA2NPom().choreo$npomsets$CETA2NPom$$ceta2npom__Lchoreo_syntax_Choreo__Lchoreo_npomsets_NPomset(xc$5).projectMap__sci_Map();
+    var this$278 = new $c_Lchoreo_npomsets_CETA2NPom().choreo$npomsets$CETA2NPom$$ceta2npom__Lchoreo_syntax_Choreo__Lchoreo_npomsets_NPomset(xc$5).projectMap__sci_Map();
     $m_sci_List$();
-    return $m_sci_Nil$().prependedAll__sc_IterableOnce__sci_List(this$275).map__F1__sci_List(new $c_sjsr_AnonFunction1(((this$277) => ((x$1$1) => {
+    return $m_sci_Nil$().prependedAll__sc_IterableOnce__sci_List(this$278).map__F1__sci_List(new $c_sjsr_AnonFunction1(((this$280) => ((x$1$1) => {
       var x$1$2 = $as_T2(x$1$1);
-      var this$278 = $as_Lchoreo_syntax_Agent(x$1$2.T2__f__1);
-      var _1 = this$278.Lchoreo_syntax_Agent__f_s;
+      var this$281 = $as_Lchoreo_syntax_Agent(x$1$2.T2__f__1);
+      var _1 = this$281.Lchoreo_syntax_Agent__f_s;
       var _2$2 = $m_Lchoreo_view_MermaidNPomset$().apply__Lchoreo_npomsets_NPomset__T($as_Lchoreo_npomsets_NPomset(x$1$2.T2__f__2));
       return new $c_T2(_1, _2$2)
     }))(this$29$1)))
@@ -15387,15 +15386,15 @@ function $c_Lchoreo_frontend_CetaCaos$() {
   var $$x79 = new $c_T2("Local B-Pomset (Component Automata as BP)", y$22);
   var y$24 = $m_Lcaos_frontend_Configurator$().viewTabs__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$30$1) => ((xc$5$1) => {
     var xc$6 = $as_Lchoreo_syntax_Choreo(xc$5$1);
-    var this$282 = $m_Lchoreo_projection_ChorSyncProj$();
-    var this$283 = $f_Lchoreo_projection_Projection__allAProj__O__sci_Set(this$282, xc$6);
+    var this$285 = $m_Lchoreo_projection_ChorSyncProj$();
+    var this$286 = $f_Lchoreo_projection_Projection__allAProj__O__sci_Set(this$285, xc$6);
     $m_sci_List$();
-    return $m_sci_Nil$().prependedAll__sc_IterableOnce__sci_List(this$283).map__F1__sci_List(new $c_sjsr_AnonFunction1(((this$285) => ((xy$2) => {
+    return $m_sci_Nil$().prependedAll__sc_IterableOnce__sci_List(this$286).map__F1__sci_List(new $c_sjsr_AnonFunction1(((this$288) => ((xy$2) => {
       var xy$3 = $as_T2(xy$2);
-      var this$286 = $as_Lchoreo_syntax_Agent(xy$3.T2__f__1);
-      var self$37 = this$286.Lchoreo_syntax_Agent__f_s;
-      var this$288 = $as_Lchoreo_syntax_Choreo(xy$3.T2__f__2);
-      var y$23 = $f_Lchoreo_syntax_Choreo__toString__T(this$288);
+      var this$289 = $as_Lchoreo_syntax_Agent(xy$3.T2__f__1);
+      var self$37 = this$289.Lchoreo_syntax_Agent__f_s;
+      var this$291 = $as_Lchoreo_syntax_Choreo(xy$3.T2__f__2);
+      var y$23 = $f_Lchoreo_syntax_Choreo__toString__T(this$291);
       return new $c_T2(self$37, y$23)
     }))(this$30$1)))
   }))(this)), $m_Lcaos_view_Text$());
@@ -15403,12 +15402,12 @@ function $c_Lchoreo_frontend_CetaCaos$() {
   var y$25 = $m_Lcaos_frontend_Configurator$().lts__F1__Lcaos_sos_SOS__F1__F1__I__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$31$1) => ((xc$6$1) => {
     var xc$7 = $as_Lchoreo_syntax_Choreo(xc$6$1);
     return new $c_Lchoreo_npomsets_CETA2NPom().choreo$npomsets$CETA2NPom$$ceta2npom__Lchoreo_syntax_Choreo__Lchoreo_npomsets_NPomset(xc$7)
-  }))(this)), $m_Lchoreo_npomsets_NPomDefSOS$(), new $c_sjsr_AnonFunction1(((this$32$1) => ((_$29) => {
-    $as_Lchoreo_npomsets_NPomset(_$29);
+  }))(this)), $m_Lchoreo_npomsets_NPomDefSOS$(), new $c_sjsr_AnonFunction1(((this$32$1) => ((_$27) => {
+    $as_Lchoreo_npomsets_NPomset(_$27);
     return " "
-  }))(this)), new $c_sjsr_AnonFunction1(((this$33$1) => ((_$30) => {
-    var _$30$1 = $as_Lchoreo_syntax_Choreo(_$30);
-    return $f_Lchoreo_syntax_Choreo__toString__T(_$30$1)
+  }))(this)), new $c_sjsr_AnonFunction1(((this$33$1) => ((_$28) => {
+    var _$28$1 = $as_Lchoreo_syntax_Choreo(_$28);
+    return $f_Lchoreo_syntax_Choreo__toString__T(_$28$1)
   }))(this)), 80);
   var $$x77 = new $c_T2("LTS: Global BP", y$25);
   var $$x75 = $m_Lcaos_frontend_Configurator$();
@@ -15417,24 +15416,24 @@ function $c_Lchoreo_frontend_CetaCaos$() {
     return $m_Lchoreo_sos_Network$().mkNetSync__O__Lchoreo_projection_Projection__sci_Map__Lchoreo_sos_Network$NetworkSync(ch$7, $m_Lchoreo_projection_ChorSyncProj$(), this$34$1.messages__Lchoreo_syntax_Choreo__sci_Map(ch$7))
   }))(this));
   var localSOS$2 = $m_Lchoreo_sos_ChorSyncSOS$();
-  var y$26 = $$x75.lts__F1__Lcaos_sos_SOS__F1__F1__I__Lcaos_frontend_widgets_WidgetInfo($$x74, new $c_Lchoreo_sos_Network$$anon$3(localSOS$2), new $c_sjsr_AnonFunction1(((this$35$1) => ((_$31) => {
-    $as_Lchoreo_sos_Network$NetworkSync(_$31);
+  var y$26 = $$x75.lts__F1__Lcaos_sos_SOS__F1__F1__I__Lcaos_frontend_widgets_WidgetInfo($$x74, new $c_Lchoreo_sos_Network$$anon$3(localSOS$2), new $c_sjsr_AnonFunction1(((this$35$1) => ((_$29) => {
+    $as_Lchoreo_sos_Network$NetworkSync(_$29);
     return " "
-  }))(this)), new $c_sjsr_AnonFunction1(((this$36$1) => ((_$32) => {
-    var _$32$1 = $as_Lchoreo_sos_ChorSyncSOS$Interact(_$32);
-    return _$32$1.toString__T()
+  }))(this)), new $c_sjsr_AnonFunction1(((this$36$1) => ((_$30) => {
+    var _$30$1 = $as_Lchoreo_sos_ChorSyncSOS$Interact(_$30);
+    return _$30$1.toString__T()
   }))(this)), 80);
   var $$x76 = new $c_T2("LTS: Local Composed S-Choreo", y$26);
   var y$27 = $m_Lcaos_frontend_Configurator$().view__F1__Lcaos_view_ViewType__Lcaos_frontend_widgets_WidgetInfo(new $c_sjsr_AnonFunction1(((this$37$1) => ((xc$7$1) => {
     var xc$8 = $as_Lchoreo_syntax_Choreo(xc$7$1);
-    var this$299 = new $c_Lchoreo_npomsets_CETA2NPom().choreo$npomsets$CETA2NPom$$ceta2npom__Lchoreo_syntax_Choreo__Lchoreo_npomsets_NPomset(xc$8);
+    var this$302 = new $c_Lchoreo_npomsets_CETA2NPom().choreo$npomsets$CETA2NPom$$ceta2npom__Lchoreo_syntax_Choreo__Lchoreo_npomsets_NPomset(xc$8);
     $m_Lchoreo_npomsets_NPomset$();
-    var events = this$299.Lchoreo_npomsets_NPomset__f_events;
-    var actions = this$299.Lchoreo_npomsets_NPomset__f_actions;
-    var pred = $p_Lchoreo_npomsets_NPomset__minimizedPred__sci_Map(this$299);
-    var loop = this$299.Lchoreo_npomsets_NPomset__f_loop;
+    var events = this$302.Lchoreo_npomsets_NPomset__f_events;
+    var actions = this$302.Lchoreo_npomsets_NPomset__f_actions;
+    var pred = $p_Lchoreo_npomsets_NPomset__minimizedPred__sci_Map(this$302);
+    var loop = this$302.Lchoreo_npomsets_NPomset__f_loop;
     var bp = new $c_Lchoreo_npomsets_NPomset(events, actions, pred, loop);
-    var bpstat = ((("BP events: " + bp.Lchoreo_npomsets_NPomset__f_events.toSet__sci_Set().size__I()) + "\nBP dependencies: ") + $as_sc_IterableOnceOps(bp.Lchoreo_npomsets_NPomset__f_pred.map__F1__O(new $c_sjsr_AnonFunction1(((this$301) => ((kv$2) => {
+    var bpstat = ((("BP events: " + bp.Lchoreo_npomsets_NPomset__f_events.toSet__sci_Set().size__I()) + "\nBP dependencies: ") + $as_sc_IterableOnceOps(bp.Lchoreo_npomsets_NPomset__f_pred.map__F1__O(new $c_sjsr_AnonFunction1(((this$304) => ((kv$2) => {
       var kv$3 = $as_T2(kv$2);
       return $as_sc_IterableOnceOps(kv$3.T2__f__2).size__I()
     }))(this$37$1)))).sum__s_math_Numeric__O($m_s_math_Numeric$IntIsIntegral$()));
@@ -15455,7 +15454,7 @@ function $c_Lchoreo_frontend_CetaCaos$() {
     var done$2 = $uZ(\u03b41$.T3__f__3);
     return ((!done$2) ? ("Stopped after traversing 2000 states\n" + bpstat) : ((((("States: " + st$2.size__I()) + "\nEdges: ") + eds$2) + "\n") + bpstat))
   }))(this)), $m_Lcaos_view_Text$());
-  var elems$5 = $$x113.wrapRefArray__AO__sci_ArraySeq(new ($d_T2.getArrayOf().constr)([$$x112, $$x111, $$x110, $$x107, $$x104, $$x98, $$x97, $$x96, $$x95, $$x94, $$x93, $$x91, $$x90, $$x89, $$x88, $$x84, $$x83, $$x82, $$x79, $$x78, $$x77, $$x76, new $c_T2("LTS info: Global BP", y$27)]));
+  var elems$5 = $$x114.wrapRefArray__AO__sci_ArraySeq(new ($d_T2.getArrayOf().constr)([$$x113, $$x112, $$x111, $$x108, $$x104, $$x98, $$x97, $$x96, $$x95, $$x94, $$x93, $$x91, $$x90, $$x89, $$x88, $$x84, $$x83, $$x82, $$x79, $$x78, $$x77, $$x76, new $c_T2("LTS info: Global BP", y$27)]));
   this.Lchoreo_frontend_CetaCaos$__f_widgets = $m_sci_Nil$().prependedAll__sc_IterableOnce__sci_List(elems$5)
 }
 $c_Lchoreo_frontend_CetaCaos$.prototype = new $h_O();
