@@ -14324,7 +14324,7 @@ function $c_Lchoreo_frontend_CetaCaos$() {
   var self$2 = new $c_T2("Gossip (good)", "c->a:w;\n\t(a->b:g +\n   c->b:w; a->b:g) +\nc->b:w; a->b:g +\na->b:g");
   var $$x75 = $$x76.toExampleDesc__T2__Lcaos_frontend_Configurator$Example(new $c_T2(self$2, "Variation of the \"Gossip (bad)\" that is realisable, although the RC does not hold (since the bisimulation found is not a function).\n<ol>\n <li> Carol asks either Alice, Bob, Alice then Bob, [or none] to Work</li>\n <li> Alice Gossips to Bob [always]</li>\n</ol>\n(Taken from <a href=\"https://arxiv.org/abs/2210.08223\">https://arxiv.org/abs/2210.08223</a>)"));
   var $$x74 = $m_Lcaos_frontend_Configurator$();
-  var self$3 = new $c_T2("ab+cb+ca", "a->b:m; c->b:m; c->a:m");
+  var self$3 = new $c_T2("ab+cb+ca", "a->b:m +\nc->b:m +\nc->a:m");
   var $$x73 = $$x74.toExampleDesc__T2__Lcaos_frontend_Configurator$Example(new $c_T2(self$3, "Smallest example that illustrates a realisable system that fails to obey the RC. The RC would hold with a bisimilar system with 3 distinct final states, since the bisimulation from the global to the composed LTS would be a function."));
   var $$x72 = $m_Lcaos_frontend_Configurator$();
   var self$4 = new $c_T2("ab;ac", "a->b:m; a->c:m");
